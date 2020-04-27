@@ -1,0 +1,25 @@
+/**
+Author : Alexandre Bernard
+**/
+
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+	#region Variables
+	#endregion
+
+	#region Unity Methods
+	
+    void Start()
+    {
+        #NOTRIM#
+    }
+
+    void Update()
+    {
+        #NOTRIM#
+    }
+
+	#endregion
+}
